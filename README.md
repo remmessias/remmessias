@@ -1,4 +1,4 @@
-# Rebecca Messias
+# Rebecca Moreira Messias
 
 > Se você já cancelou um serviço de telefonia pela internet sem precisar falar com ninguém,
 > existe uma chance real de ter passado por uma tela que eu construí.
