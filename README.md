@@ -1,45 +1,51 @@
-### Hi there! I'm Rebecca Messias! 👋
- <div>
-  <a href="https://github.com/remmessias">
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Re-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Re-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Re-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Re-Vue" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
-  <img align="center" alt="Re-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
-  <img align="center" alt="Re-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Re-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Re-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Re-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Re-Solidity" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg">
-  <img align="center" alt="Re-Next" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
- </div>
-  
-  ##
- 
-<div> 
- <a href="https://facebook.com/remmessias" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> 
- <a href="https://instagram.com/remmessias" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:rebecca.moreiram@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/remmessias" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- <a href="https://github.com/remmessias" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> 
- <a href="https://t.me/remmessias" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a> 
-</div>
+# Rebecca Messias
 
+> Se você já cancelou um serviço pela internet sem precisar falar com ninguém,
+> existe uma chance real de ter passado por uma tela que eu construí.
 
+`Desenvolvedora Front-end` · `Campinas – SP` · 10 anos de web, 6 deles em Vue.js
 
-<!--
-**remmessias/remmessias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## O que eu construo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: She/ Her
-- ⚡ Fun fact: ...
--->
+Jornadas complexas em produtos grandes — do tipo que não pode cair e não pode
+confundir o usuário. Cancelamento, troca de titularidade, autodiagnóstico:
+fluxos onde cada erro de tratamento vira uma ligação para o call center.
+
+Trabalho no ponto em que arquitetura encontra experiência real. Me importo tanto
+com o componente quanto com quem vai usá-lo às onze da noite, com pressa e sem
+paciência. E faço code review sem criar atrito — o que, depois de dez anos, eu
+descobri ser uma habilidade técnica como qualquer outra.
+
+**Hoje:** front-end na Mutant, em um produto com mais de 70 milhões de clientes.
+Cursando pós em Gestão Estratégica e Liderança na FIAP.
+
+## Projetos independentes
+
+| Projeto | O que é |
+|---|---|
+| **[Suffra](LINK)** | Plataforma eleitoral modular. O cliente configura o sistema conforme as regras da própria eleição — pré-eleição, votação e apuração. Feita para aguentar regras de negócio que mudam a cada contrato. |
+| **[Portus](LINK)** | Controle de acesso a áreas restritas em eventos, com credenciais digitais e validação em tempo real. |
+| **[Nuntio](LINK)** | Disparo de mensagens em escala e gestão centralizada de contatos no WhatsApp. |
+
+## Ferramentas
+
+**Todo dia:** Vue.js · TypeScript · JavaScript (ES6+) · React · Node.js
+**Também:** React Native · AngularJS · micro frontends · Jest · REST APIs
+**Infra:** Git · GitHub Actions · Jenkins · AWS
+
+## Formação
+
+Ciência da Computação — **UNICAMP** · Técnico em Informática — **COTUCA**
+Pós em Gestão Estratégica e Liderança — **FIAP** (em andamento)
+
+## Fora do editor
+
+Estudo mandarim. Ainda estou no estágio em que consigo pedir comida e pouco
+mais, mas achei que uma linguagem sem tipagem, sem compilador e com quarenta mil
+caracteres seria um bom contraponto ao TypeScript.
+
+---
+
+[LinkedIn](https://linkedin.com/in/remmessias) · rebecca.moreiram@gmail.com
