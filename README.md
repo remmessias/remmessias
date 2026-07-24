@@ -1,9 +1,9 @@
 # Rebecca Messias
 
-> Se você já cancelou um serviço pela internet sem precisar falar com ninguém,
+> Se você já cancelou um serviço de telefonia pela internet sem precisar falar com ninguém,
 > existe uma chance real de ter passado por uma tela que eu construí.
 
-`Desenvolvedora Front-end` · `Campinas – SP` · 10 anos de web, 6 deles em Vue.js
+`Desenvolvedora Full-stack` · `Campinas – SP` · 10 anos de web, 6 deles em Vue.js
 
 ---
 
@@ -18,22 +18,21 @@ com o componente quanto com quem vai usá-lo às onze da noite, com pressa e sem
 paciência. E faço code review sem criar atrito — o que, depois de dez anos, eu
 descobri ser uma habilidade técnica como qualquer outra.
 
-**Hoje:** front-end na Mutant, em um produto com mais de 70 milhões de clientes.
-Cursando pós em Gestão Estratégica e Liderança na FIAP.
+**Hoje:** Focada em projetos pessoais, mas aberta a novos desafios. Finalizei recentemente (junho/2026) minha pós em Gestão Estratégica e Liderança na FIAP.
 
 ## Projetos independentes
 
 | Projeto | O que é |
 |---|---|
-| **[Suffra](LINK)** | Plataforma eleitoral modular. O cliente configura o sistema conforme as regras da própria eleição — pré-eleição, votação e apuração. Feita para aguentar regras de negócio que mudam a cada contrato. |
-| **[Portus](LINK)** | Controle de acesso a áreas restritas em eventos, com credenciais digitais e validação em tempo real. |
-| **[Nuntio](LINK)** | Disparo de mensagens em escala e gestão centralizada de contatos no WhatsApp. |
+| **[Suffra]** | Plataforma eleitoral modular. O cliente configura o sistema conforme as regras da própria eleição — pré-eleição, votação e apuração. Feita para aguentar regras de negócio que mudam a cada contrato. |
+| **[Portus]** | Controle de acesso a áreas restritas em eventos, com credenciais digitais e validação em tempo real. |
+| **[Nuntio]** | Disparo de mensagens em escala e gestão centralizada de contatos no WhatsApp. |
 
 ## Ferramentas
 
 **Todo dia:** Vue.js · TypeScript · JavaScript (ES6+) · React · Node.js
 **Também:** React Native · AngularJS · micro frontends · Jest · REST APIs
-**Infra:** Git · GitHub Actions · Jenkins · AWS
+**Infra:** Git · Jenkins · AWS
 
 ## Formação
 
