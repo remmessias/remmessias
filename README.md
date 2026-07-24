@@ -24,9 +24,9 @@ descobri ser uma habilidade técnica como qualquer outra.
 
 | Projeto | O que é |
 |---|---|
-| **[Suffra]** | Plataforma eleitoral modular. O cliente configura o sistema conforme as regras da própria eleição — pré-eleição, votação e apuração. Feita para aguentar regras de negócio que mudam a cada contrato. |
-| **[Portus]** | Controle de acesso a áreas restritas em eventos, com credenciais digitais e validação em tempo real. |
-| **[Nuntio]** | Disparo de mensagens em escala e gestão centralizada de contatos no WhatsApp. |
+| **Suffra** | Plataforma eleitoral modular. O cliente configura o sistema conforme as regras da própria eleição — pré-eleição, votação e apuração. Feita para aguentar regras de negócio que mudam a cada contrato. |
+| **Portus** | Controle de acesso a áreas restritas em eventos, com credenciais digitais e validação em tempo real. |
+| **Nuntio** | Disparo de mensagens em escala e gestão centralizada de contatos no WhatsApp. |
 
 ## Ferramentas
 
