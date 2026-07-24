@@ -31,13 +31,18 @@ descobri ser uma habilidade técnica como qualquer outra.
 ## Ferramentas
 
 **Todo dia:** Vue.js · TypeScript · JavaScript (ES6+) · React · Node.js
+
 **Também:** React Native · AngularJS · micro frontends · Jest · REST APIs
+
 **Infra:** Git · Jenkins · AWS
 
 ## Formação
 
-Ciência da Computação — **UNICAMP** · Técnico em Informática — **COTUCA**
-Pós em Gestão Estratégica e Liderança — **FIAP** (em andamento)
+Ciência da Computação — **UNICAMP**
+
+Técnico em Informática — **COTUCA**
+
+Pós em Gestão Estratégica e Liderança — **FIAP**
 
 ## Fora do editor
 
